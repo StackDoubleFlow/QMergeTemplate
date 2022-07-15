@@ -1,0 +1,11 @@
+[plugin]
+app = "com.beatgames.beatsaber"
+app_version = "1.23.0"
+id = "QMergeTemplate"
+name = "QMerge Template"
+author = "StackDoubleFlow"
+version = "0.1.0"
+description = "A template mod for getting started with QMerge"
+
+[dependencies]
+QMergeCore = "^0.0.0"
